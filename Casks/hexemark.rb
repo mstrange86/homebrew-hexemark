@@ -1,6 +1,6 @@
 cask "hexemark" do
-  version "0.1.105"
-  sha256 "c50be7734e92fe154fe4fa053cf9a9621ef4e6f2805ef34b343d14deb8ddd914"
+  version "0.1.106"
+  sha256 "53f6b9c8730f98394f381728d3bcd81d78ba47d487551a7121aa264901985cab"
 
   url "https://github.com/mstrange86/homebrew-hexemark/releases/download/v#{version}/hexemark-#{version}.zip"
   name "hexemark"
